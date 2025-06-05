@@ -39,9 +39,9 @@ Welcome to my world of code, creativity, and curiosity. I go by **Junox** — a 
 
 ## 📈 GitHub Stats
 
-![Junox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=junox&show_icons=true&theme=tokyonight)
+![Junox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thejunox&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junox&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejunox&layout=compact&theme=tokyonight)
 
 ---
 
